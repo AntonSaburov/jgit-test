@@ -19,6 +19,7 @@
                 <configuration>
                     <noDeploy>true</noDeploy>
                     <pushReleases>true</pushReleases>
+                    <enableSshAgent>true</enableSshAgent>
                 </configuration>
             </plugin>
         </plugins>
